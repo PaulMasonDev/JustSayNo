@@ -26,6 +26,7 @@ div {
 img:hover {
 	outline: 5px solid blue;
 	border-radius: 15%;
+	cursor: pointer;
 }
 
 img {
